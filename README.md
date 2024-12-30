@@ -4,7 +4,7 @@ This project uses advanced feature engineering and multimodal data integration t
 ![image](https://github.com/user-attachments/assets/baf5892a-e1d5-4a9c-8137-56763779b581)
 
 ## **Summary**
-Performance of Machine Learning Models
+
 The study revealed a multifaceted landscape of model performance across different machine learning approaches. Traditional machine learning models, specifically Support Vector Machines (SVM) and Random Forests, demonstrated competitive performance, particularly when augmented with advanced feature engineering techniques. The SVM model showed substantial improvements with feature engineering, with increases of 7.17% in accuracy, 5.10% in F1 Score, and 7.43% in ROC AUC. While benefiting from feature engineering, the Random Forest model showed more modest improvements, suggesting its inherent capability to capture complex feature interactions.
 
 In deep learning, the custom Convolutional Neural Network (CNN) and transfer learning models using ResNet50 and DenseNet121 architectures showcased the power of automatic feature learning. The DenseNet121 model consistently outperformed other architectures, achieving the highest overall performance with an ROC AUC of 0.9448 in the single modality setting. The Dual-Stream DenseNet121 model achieved the pinnacle of performance in the multimodal setting, with an accuracy of 0.9192 and an ROC AUC of 0.9699. This result underscores the potential of integrating multiple imaging modalities to enhance diagnostic accuracy.
