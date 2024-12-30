@@ -24,7 +24,7 @@ For detailed explanations, refer to the `Breast Cancer prediction.pdf` in this r
 
 ## References
 
-The following references are some of were cited in the report and provide additional context:
+The following references are some of those cited in the report and provide additional context:
 
 1. **Ahmed et al., 2023**: "Fractal Dimension for Mammographic Image Analysis," *Journal of Medical Imaging*.
 2. **Chen et al., 2024**: "Enhancing Robustness in Medical Imaging Models via Augmentation," *Proceedings of AI Healthcare*.
