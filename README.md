@@ -16,7 +16,7 @@ In deep learning, the custom Convolutional Neural Network (CNN) and transfer lea
 
 ## **Access to Full Details**
 
-For detailed explanations, refer to the `Breast Cancer prediction.pdf` in this repository, which outlines:
+For detailed explanations, refer to the `Breast Cancer prediction.pdf` in this repository which outlines:
 - Methodology
 - Implementation
 - Results and analysis
