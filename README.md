@@ -1,0 +1,2 @@
+# enniej-Machine-Learning-Models-in-Multimodal-Breast-Cancer-Diagnosis
+This project explores enhancing machine learning and deep learning models for breast cancer diagnosis using advanced feature engineering and multimodal data integration. By leveraging  histopathological images and mammographic images, it develops robust methodologies to improve diagnostic accuracy, interpretability, and clinical relevance.
