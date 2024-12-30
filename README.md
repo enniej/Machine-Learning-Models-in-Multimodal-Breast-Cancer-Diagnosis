@@ -21,11 +21,6 @@ For detailed explanations, refer to the `Breast Cancer prediction.pdf` in this r
 - Implementation
 - Results and analysis
 
-## **Conclusion**
-This research has made significant strides in advancing machine learning-based breast cancer diagnosis by utilising multimodality and feature engineering to develop accurate, robust diagnostic tools. The study's holistic approach, which fuses multimodal imaging data with advanced feature engineering techniques, distinguishes it in the field and aligns with the pressing needs of modern healthcare systems like the NHS.
-The results demonstrate that the best-performing algorithm has the potential to serve as an effective medical assistant for breast cancer diagnosis. This research not only reveals AI's potential to enhance diagnostic accuracy but also highlights important challenges in interpretability and clinical integration. Addressing these challenges is crucial for realising the full potential of AI-assisted breast cancer diagnosis and improving patient outcomes.
-
-Ultimately, this study provides valuable insights into developing AI-based diagnostic tools that emphasise clinical real-world applicability. By balancing technological advancement with practical considerations, this research contributes to the ongoing effort to improve breast cancer diagnosis and, by extension, patient care in healthcare systems worldwide.
 
 ## References
 
@@ -50,6 +45,12 @@ The following references are some of were cited in the report and provide additi
 
 - **Datasets**: Due to size constraints, this repository does not include the BreakHis and CBIS-DDSM datasets. Instructions and links to these datasets are available in the report's reference section.
 - **Code**: Scripts for preprocessing, feature engineering, training, and evaluation are provided in the `.pynb` file.
+
+## **Conclusion**
+This research has made significant strides in advancing machine learning-based breast cancer diagnosis by utilising multimodality and feature engineering to develop accurate, robust diagnostic tools. The study's holistic approach, which fuses multimodal imaging data with advanced feature engineering techniques, distinguishes it in the field and aligns with the pressing needs of modern healthcare systems like the NHS.
+The results demonstrate that the best-performing algorithm has the potential to serve as an effective medical assistant for breast cancer diagnosis. This research not only reveals AI's potential to enhance diagnostic accuracy but also highlights important challenges in interpretability and clinical integration. Addressing these challenges is crucial for realising the full potential of AI-assisted breast cancer diagnosis and improving patient outcomes.
+
+Ultimately, this study provides valuable insights into developing AI-based diagnostic tools that emphasise clinical real-world applicability. By balancing technological advancement with practical considerations, this research contributes to the ongoing effort to improve breast cancer diagnosis and, by extension, patient care in healthcare systems worldwide.
 
 ## Contact
 
